@@ -1,5 +1,5 @@
-FROM node:6.10.3-slim
-#RUN yum update \    && yum install -y nginx
+FROM node:6.16.0-slim
+RUN npm update \    && npm install -y nginx
 WORKDIR /app
 COPY . /app/
 EXPOSE 80
