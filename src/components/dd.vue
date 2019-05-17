@@ -4,10 +4,13 @@
 
 <script>
   let newVar = {
-    name: 'dd'
+    // name: 'dd'  修改了这样
   }
-  export default adfasdfasdfa
+
 
 <style scoped>
 d
 </style>
+
+
+新增了这一行
