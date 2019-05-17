@@ -6,8 +6,7 @@
   let newVar = {
     name: 'dd'
   }
-  export default adfasdfasdfasdfasdnewVar
-</script>
+  export default adfasdfasdfa
 
 <style scoped>
 d
