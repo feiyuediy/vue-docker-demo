@@ -6,3 +6,4 @@ RUN  npm install \     && npm run build \     && cp -r dist/* /var/www/html \   
 CMD ["nginx","-g","daemon off;"]
 
 新增了一行
+dddddddd

@@ -3,11 +3,12 @@
 </template>
 
 <script>
-  export default {
+  let newVar = {
     name: 'dd'
   }
+  export default adfasdfasdfasdfasdnewVar
 </script>
 
 <style scoped>
-
+d
 </style>
